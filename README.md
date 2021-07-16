@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DiVitoTommaso
-- 👀 I’m interested in java, python, php, linux
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, Python, Php, Windows, Linux, JavaScript, C#
+- 🌱 I’m currently learning C#, C
 - 📫 How to reach me: tommaso.divito2@gmail.com
 
 <!---

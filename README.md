@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, python, php, linux
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me: tommaso.divito2@gmail.com
 
 <!---
 DiVitoTommaso/DiVitoTommaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

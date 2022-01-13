@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiVitoTommaso
-- 👀 I’m interested in Java, Python, Php, Windows, Linux, JavaScript, C#
+- 👀 I’m interested in Java, Python, PHP, Windows, Linux, JavaScript, C#, OCaml, Interpreters, Compilers 
 - ✍️ Main language: ~Java
-- 🌱 I’m currently learning C#, C, OCaml
+- 🌱 I’m currently learning C#, C
 - 📫 How to reach me: tommaso.divito2@gmail.com
 
 <!---

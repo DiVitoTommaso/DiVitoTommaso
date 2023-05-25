@@ -3,7 +3,7 @@
 - ✍️ Main languages: ~Kotlin and Java
 - 📚 Other used languages: Python, JavaScript, C#, C++, C, PHP, OCaml, Rust
 - 🌱 I’m currently learning AI Algorithms
-- 📫 How to reach me: tommaso.divito2@gmail.com
+- 📫 How to reach me: tommaso814@gmail.com
 
 <!---
 DiVitoTommaso/DiVitoTommaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

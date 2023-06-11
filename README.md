@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DiVitoTommaso
-- 👀 I’m interested in Java, Python, PHP, Windows, Linux, JavaScript, C#, Interpreters, Compilers 
-- ✍️ Main languages: ~Kotlin and Java
+- 👀 I’m interested in software engineering and programming languages.
+- ✍️ Main language: ~Kotlin
 - 📚 Other used languages: Python, JavaScript, C#, C++, C, PHP, OCaml, Rust
-- 🌱 I’m currently learning AI Algorithms
-- 📫 How to reach me: tommaso814@gmail.com
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: tommaso.divito2@gmail.com
 
 <!---
 DiVitoTommaso/DiVitoTommaso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

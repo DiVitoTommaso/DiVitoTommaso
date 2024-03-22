@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiVitoTommaso
+- 👋 Hi, I’m Di Vito Tommaso (He/Him)
 - 👀 I’m interested in software development, Big Data processing and Artificial Intelligence.
 - ✍️ Main language: ~Kotlin
 - 📚 Other used languages: Python, JavaScript, C#, C++, C, PHP, OCaml, Rust

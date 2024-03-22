@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DiVitoTommaso
-- 👀 I’m interested in software engineering and programming languages.
+- 👀 I’m interested in software development, Big Data processing and Artificial Intelligence.
 - ✍️ Main language: ~Kotlin
 - 📚 Other used languages: Python, JavaScript, C#, C++, C, PHP, OCaml, Rust
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently studying machine learning and deep learning
 - 📫 How to reach me: tommaso.divito2@gmail.com
 
 <!---

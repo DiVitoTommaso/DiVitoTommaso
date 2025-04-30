@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Di Vito Tommaso (He/Him)
-- 👀 I’m interested in software development, Big Data processing and Artificial Intelligence.
-- ✍️ Main language: ~Kotlin
-- 📚 Other used languages: Python, JavaScript, C#, C++, C, PHP, OCaml, Rust
+- 👀 I’m interested in software development, Big Data processing , Data Analysis, and Artificial Intelligence.
+- ✍️ Main programming languages: ~Kotlin, ~Python
+- 📚 Other used languages: JavaScript, Java, C#, C++, C, PHP, Rust, Bash
 - 🌱 I’m currently studying machine learning and deep learning
 - 📫 How to reach me: tommaso.divito2@gmail.com
 
